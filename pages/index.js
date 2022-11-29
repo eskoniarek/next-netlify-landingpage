@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Thank you for your order!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          We are processing your payment <code>kv-34569dfg7097fn</code>
         </p>
       </main>
 
